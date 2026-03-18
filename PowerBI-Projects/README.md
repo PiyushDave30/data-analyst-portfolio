@@ -23,8 +23,8 @@ This project analyzes sales data using Power BI to create interactive dashboards
 ![Dashboard](Dashboard3.png)
 ![Dashboard](Dashboard4.png)
 
-## 🔹 Live Dashboard ( Power BI Service )
-(https://app.powerbi.com/groups/me/reports/f6c3cf16-1b7b-4b53-89f8-1f74fce98ecb/4eb96e3d13fa995ced94?experience=power-bi&clientSideAuth=0)
+## 🔹 Live Dashboard
+[View Dashboard ( Power BI Service )](https://app.powerbi.com/groups/me/reports/f6c3cf16-1b7b-4b53-89f8-1f74fce98ecb/4eb96e3d13fa995ced94?experience=power-bi&clientSideAuth=0)
 
 ## 🔹 Conclusion
 This dashboard helps in understanding business performance and supports data-driven decision-making.
