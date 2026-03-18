@@ -15,6 +15,6 @@ This folder contains my Power BI dashboard projects focused on data analysis and
 
 ## Projects Included
 - Adventure Works Sales Analysis
-- 
+
 These projects showcase my ability to transform raw data into interactive dashboards and meaningful insights.
 
