@@ -1,4 +1,4 @@
-# 📊 Adventure Works Sales Analysis (Tableau)
+#  Adventure Works Sales Analysis (Tableau)
 
 ## 🔹 Project Overview
 This project analyzes sales data using Tableau to create interactive dashboards and generate insights.
