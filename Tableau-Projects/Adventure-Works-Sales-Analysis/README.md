@@ -1,3 +1,3 @@
 ## 🔹 Dashboard Screenshots
 
-![Dashboard](Dashboard1.png)
+![Dashboard](Dashboard6.png)
