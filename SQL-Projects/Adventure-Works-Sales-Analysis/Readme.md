@@ -12,9 +12,9 @@ This project uses SQL to analyze sales data and extract meaningful business insi
 - Track revenue trends
 
 ## 🔹 Key Insights
-- Identified top-performing products and customers
+- Finding Customer data using Stored Procedure
 - Analyzed sales trends over time
-- Found high-revenue regions
+- 
 
 ## 🔹 Dashboard Screenshots
 
