@@ -14,7 +14,7 @@ This project uses SQL to analyze sales data and extract meaningful business insi
 ## 🔹 Key Insights
 - Finding Customer data using Stored Procedure
 - Analyzed sales trends over time
-- 
+- Identified top-performing products 
 
 ## 🔹 Dashboard Screenshots
 
