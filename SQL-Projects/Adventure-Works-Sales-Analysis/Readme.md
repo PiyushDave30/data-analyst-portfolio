@@ -14,8 +14,11 @@ This project uses SQL to analyze sales data and extract meaningful insights.
 ## 🔹 Query & Output Screenshots
 
 ![Query](Dashboard7.png)
+
 ![Query](Dashboard8.png)
+
 ![Query](Dashboard9.png)
+
 ![Query](Dashboard10.png)
 
 ## 🔹 Conclusion
