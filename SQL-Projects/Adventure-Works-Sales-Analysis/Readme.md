@@ -1,27 +1,22 @@
-# Adventure Works Sales Analysis (SQL)
+#  Adventure Works Sales Analysis (SQL)
 
 ## 🔹 Project Overview
-This project uses SQL to analyze sales data and extract meaningful business insights.
+This project uses SQL to analyze sales data and extract meaningful insights.
 
 ## 🔹 Tools Used
-- SQL (MySQL / PostgreSQL)
+- SQL (MySQL )
 
 ## 🔹 Key Objectives
-- Analyze sales performance
-- Identify top customers and products
-- Track revenue trends
+- Query and analyze data
+- Identify trends and patterns
+- Generate business insights
 
-## 🔹 Key Insights
-- Finding Customer data using Stored Procedure
-- Analyzed sales trends over time
-- Identified top-performing products 
+## 🔹 Query & Output Screenshots
 
-## 🔹 Dashboard Screenshots
-
-![Dashboard](Dashboard7.png)
-![Dashboard](Dashboard8.png)
-![Dashboard](Dashboard9.png)
-![Dashboard](Dashboard10.png)
+![Query](Dashboard7.png)
+![Query](Dashboard8.png)
+![Query](Dashboard9.png)
+![Query](Dashboard10.png)
 
 ## 🔹 Conclusion
-This project demonstrates how SQL can be used to analyze data and support business decision-making.
+This project demonstrates how SQL queries can be used to extract insights and support data-driven decision-making.
