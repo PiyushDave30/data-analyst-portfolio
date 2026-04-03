@@ -1,4 +1,4 @@
-## Dashboard
+## 🔹 Dashboard
 ![Dashboard](HA6.png)
 
 ## 🔹 Live Dashboard
