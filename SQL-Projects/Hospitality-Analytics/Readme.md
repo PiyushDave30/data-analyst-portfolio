@@ -21,12 +21,15 @@ This project analyzes hospitality booking data using SQL to generate key busines
 ## 🔹 SQL Query & Output Screenshots
 
 ### 📌 KPI Metrics
+
 ![KPI](HA7.png)
 
 ### 📌 Trend & Revenue Analysis
+
 ![Trend](HA8.png)
 
 ### 📌 Class & Booking Insights
+
 ![Insights](HA9.png)
 
 ## 🔹 SQL Concepts Used
