@@ -1,4 +1,4 @@
-#  Tableau Projects
+#   Tableau Projects
 
 This folder contains my Tableau dashboard projects focused on data visualization and business insights.
 
@@ -14,7 +14,6 @@ This dashboard analyzes hospitality data to track bookings, revenue, occupancy, 
 - ❌ Cancellation Rate: 24.83%
 
 ## 🔹 Dashboard Preview
-
 ![Hospitality Dashboard](HA6.png)
 
 
