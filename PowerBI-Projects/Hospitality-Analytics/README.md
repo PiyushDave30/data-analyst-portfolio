@@ -24,5 +24,7 @@ This project analyzes hospitality data to evaluate hotel performance, bookings, 
 ![Dashboard](HA4.png)
 ![Dashboard](HA5.png)
 
+https://app.powerbi.com/groups/me/reports/228603d6-cbb5-4930-8282-b7420c355cb5/d2f6f4aa482d209329c2?experience=power-bi&clientSideAuth=0
+
 ## 🔹 Conclusion
 This dashboard helps improve decision-making in the hospitality industry by analyzing performance and trends.
