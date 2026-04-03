@@ -47,6 +47,9 @@ This project analyzes hospitality booking data using SQL to generate key busines
 - Cancellation rate (~25%) impacts overall performance
 - Weekly trends help identify peak booking periods
 
+## 🔹 SQL Queries
+You can find all SQL queries used in this project here: [View SQL File](Hospitality_Analytics_SQL.sql)
+
 ## 🔹 Conclusion
 This project demonstrates how SQL can be used to perform end-to-end data analysis, from data extraction to generating meaningful business insights.
 
