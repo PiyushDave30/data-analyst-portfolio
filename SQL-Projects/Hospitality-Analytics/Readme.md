@@ -23,15 +23,15 @@ This project analyzes hospitality booking data using SQL to generate key busines
 ### 📌 KPI Metrics
 
 ![KPI](HA7.png)
-
+---
 ### 📌 Trend & Revenue Analysis
 
 ![Trend](HA8.png)
-
+---
 ### 📌 Class & Booking Insights
 
 ![Insights](HA9.png)
-
+---
 ## 🔹 SQL Concepts Used
 - Aggregation Functions (SUM, COUNT, AVG)
 - GROUP BY & ORDER BY
