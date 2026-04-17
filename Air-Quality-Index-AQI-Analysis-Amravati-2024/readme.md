@@ -85,9 +85,10 @@ Built an interactive dashboard with:
 ---
 
 ## Quick Access
-- Dashboard Files → Dashboard/
-- Python Notebook → Notebooks/
-- Data Files → Data/
+- 📊 [Dashboard Files](Dashboard/)
+- 🐍 [Python Notebook](Notebooks/)
+- 📁 [Data Files](Data/)
+- 🖼 [Dashboard Image](Images/AQI.png)
 
 ---
 
