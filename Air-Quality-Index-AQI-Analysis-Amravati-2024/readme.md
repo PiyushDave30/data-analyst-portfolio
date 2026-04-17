@@ -73,6 +73,15 @@ Built an interactive dashboard with:
 
 ---
 
+## Key Insight
+January recorded the highest average AQI
+July showed the cleanest air quality
+62.3% days were categorized as clean
+Winter months showed higher pollution levels
+Monsoon months showed lower AQI levels
+
+---
+
 ## Tools & Technologies Used
 
 - Python  
