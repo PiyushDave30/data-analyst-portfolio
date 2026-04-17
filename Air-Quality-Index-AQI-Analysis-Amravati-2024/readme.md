@@ -80,7 +80,14 @@ Built an interactive dashboard with:
 - NumPy  
 - Jupyter Notebook  
 - Power BI  
-- Microsoft Excel  
+- Microsoft Excel
+
+---
+
+## Quick Access
+- Dashboard Files → Dashboard/
+- Python Notebook → Notebooks/
+- Data Files → Data/
 
 ---
 
