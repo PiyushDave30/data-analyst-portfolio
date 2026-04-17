@@ -6,7 +6,7 @@ This folder contains the Power BI dashboard file for the AQI Analysis project.
 - AQI_Dashboard.pbix
 
 ## Dashboard Image
-![AQI Dashboard](Images/AQI.png)
+![Dashboard](AQI.png)
 
 ## Dashboard Features
 - KPI Cards
