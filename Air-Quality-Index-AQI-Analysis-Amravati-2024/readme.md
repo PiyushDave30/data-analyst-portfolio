@@ -1,6 +1,6 @@
 # Air Quality Index (AQI) Analysis - Amravati 2024
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents an end-to-end data analytics workflow on **daily Air Quality Index (AQI)** data for **Amravati, Maharashtra (2024)** using **Python** and **Power BI**.
 
@@ -17,20 +17,20 @@ This project demonstrates skills in:
 
 ---
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard](Images/AQI.png)
 
 ---
 
-## 🌐 Data Source
+## Data Source
 
 Official CPCB AQI Repository:  
 https://airquality.cpcb.gov.in/ccr/#/caaqm-dashboard-all/caaqm-landing/aqi-repository
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze daily AQI levels for Amravati city  
 - Identify monthly and seasonal pollution trends  
@@ -40,12 +40,12 @@ https://airquality.cpcb.gov.in/ccr/#/caaqm-dashboard-all/caaqm-landing/aqi-repos
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
-### 1️⃣ Data Collection
+### 1️ Data Collection
 - Downloaded daily AQI data for Amravati city from CPCB official website
 
-### 2️⃣ Data Cleaning & Transformation (Python)
+### 2️ Data Cleaning & Transformation (Python)
 - Removed invalid rows / metadata rows  
 - Handled missing values  
 - Converted data types  
@@ -53,14 +53,14 @@ https://airquality.cpcb.gov.in/ccr/#/caaqm-dashboard-all/caaqm-landing/aqi-repos
 - Created Date column  
 - Created AQI category column  
 
-### 3️⃣ Exploratory Data Analysis
+### 3️ Exploratory Data Analysis
 - Monthly average AQI  
 - Daily AQI trend analysis  
 - Category distribution  
 - Clean vs polluted day analysis  
 - Highest and lowest AQI identification  
 
-### 4️⃣ Dashboard Development (Power BI)
+### 4️ Dashboard Development (Power BI)
 Built an interactive dashboard with:
 
 - KPI Cards  
@@ -73,7 +73,7 @@ Built an interactive dashboard with:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 - Python  
 - Pandas  
@@ -85,14 +85,14 @@ Built an interactive dashboard with:
 ---
 
 ## Quick Access
-- 📊 [Dashboard Files](Dashboard/)
-- 🐍 [Python Notebook](Notebooks/)
-- 📁 [Data Files](Data/)
-- 🖼 [Dashboard Image](Images/AQI.png)
+-  [Dashboard Files](Dashboard/)
+-  [Python Notebook](Notebooks/)
+-  [Data Files](Data/)
+-  [Dashboard Image](Images/AQI.png)
 
 ---
 
-## 📂 Project Folder Structure
+##  Project Folder Structure
 
 ```text
 Air-Quality-Index-AQI-Analysis-Amravati-2024/
