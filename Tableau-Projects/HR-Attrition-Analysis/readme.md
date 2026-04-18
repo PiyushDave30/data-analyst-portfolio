@@ -70,7 +70,8 @@ Users can dynamically change analysis using:
 ![HR Dashboard](HR_Tableau.png)
 
 ## Live Dashboard  
- **Tableau Public Link:**   [View Interactive Dashboard]  (https://public.tableau.com/views/HR_Analytics_Tableau_17765068172250/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ **Tableau Public Link:**   
+[View Interactive Dashboard](https://public.tableau.com/views/HR_Analytics_Tableau_17765068172250/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ##  Key Insights
 
