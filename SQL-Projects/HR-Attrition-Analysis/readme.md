@@ -43,8 +43,11 @@ The objective of this project is to help HR teams answer important questions suc
 # Queries Screenshots
 
 ![Dashboard Preview](HR1.png)
+
 ![Dashboard Preview](HR2.png)
+
 ![Dashboard Preview](HR3.png)
+
 ![Dashboard Preview](HR4.png)
 
 #  Dataset Information
