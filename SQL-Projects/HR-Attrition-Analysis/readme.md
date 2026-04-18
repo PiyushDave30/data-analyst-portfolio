@@ -1,8 +1,8 @@
-#  HR Attrition Analysis – SQL Server Project
+#  HR Attrition Analysis – SQL Project
 
 ##  Project Overview
 
-This project focuses on **HR Attrition Data Analysis using SQL Server**.  
+This project focuses on **HR Attrition Data Analysis using MySQL Workbench**.  
 Two datasets named **HR1** and **HR2**, each containing **50,000 employee records**, were imported into SQL Server and joined together for complete workforce analysis.
 
 Using SQL queries, this project identifies key insights related to:
@@ -47,9 +47,9 @@ The objective of this project is to help HR teams answer important questions suc
 ![Dashboard Preview](HR2.png)
 ---
 ![Dashboard Preview](HR3.png)
-
 ---
 ![Dashboard Preview](HR4.png)
+---
 
 #  Dataset Information
 
