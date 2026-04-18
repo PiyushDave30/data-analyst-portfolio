@@ -67,8 +67,7 @@ Donut chart showing attrition percentage across income groups.
 - Interactive Data Visualization
 
 ##  Live Dashboard
-🔗 **Power BI Service Link:**  
-[View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/c2587b31-053f-4357-a8c7-afd3132b678c/0a6b35dd9028a8065c4c?experience=power-bi)
+🔗 **Power BI Service Link:**   [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/c2587b31-053f-4357-a8c7-afd3132b678c/0a6b35dd9028a8065c4c?experience=power-bi)
 
 ##  Skills Demonstrated
 - HR Analytics  
