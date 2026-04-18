@@ -1,7 +1,5 @@
 # HR Attrition Analysis Dashboard (Tableau)
 
-![Dashboard Preview](HR_Tableau.png)
-
 ##  Project Overview
 
 This Tableau dashboard analyzes **50,000 employee records** to understand workforce trends, employee attrition, salary patterns, department performance, and promotion impact.
