@@ -60,14 +60,14 @@ Analyzed online delivery adoption and table booking trends.
 ###  Z4 - Cuisine Analysis / Customer Behavior
 Analyzed popular cuisines, ratings, votes, and customer preferences.
 
-![Z4](z4.png)
+![Z4](Z4.png)
 
 ---
 
 ###  Z5 - City Analysis / Revenue Analysis
 Compared city-wise restaurant counts, revenue trends, and performance.
 
-![Z5](z5.png)
+![Z5](Z5.png)
 
 ---
 
