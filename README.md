@@ -52,7 +52,7 @@ Passionate about transforming raw data into meaningful insights to support busin
 ## 🔗 Project Links
 
 -  GitHub Portfolio: https://github.com/PiyushDave30/data-analyst-portfolio  
--  Tableau Public: https://public.tableau.com/app/profile/piyush.dave4044/vizzes  
+-  Tableau Public: https://public.tableau.com/app/profile/piyushdave/vizzes 
 -  LinkedIn: https://www.linkedin.com/in/piyush-dave-0980a03a8  
 
 ---
