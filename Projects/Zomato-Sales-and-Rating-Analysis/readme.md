@@ -20,7 +20,7 @@ Zomato-Sales-Rating-Analysis/
 
 ##  Live Dashboard Link
  **Tableau Public Dashboard**  
-https://public.tableau.com/app/profile/piyushdave/viz/ZomatoTableauDB/Dashboard1
+[View Live Dashboard]https://public.tableau.com/app/profile/piyushdave/viz/ZomatoTableauDB/Dashboard1
 
 ##  Dashboard Preview
 
