@@ -24,17 +24,22 @@ The dashboard provides a complete overview of BlinkIT operations and helps ident
 ### Executive Overview
 ![Dashboard Preview](B1.png)
 
+
 ### Product Performance & Sales Contribution Analysis
 ![Dashboard Preview](B2.png)
+
 
 ### Outlet Performance Analysis
 ![Dashboard Preview](B3.png)
 
+
 ### Quick Analysis
 ![Dashboard Preview](B4.png)
 
+
 ### Key Findings & Business Recommendations
 ![Dashboard Preview](B5.png)
+
 
 ## Dashboard Features
 
