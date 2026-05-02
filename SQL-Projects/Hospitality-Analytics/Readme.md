@@ -2,15 +2,15 @@
 
 This folder contains my SQL-based data analysis projects focused on extracting insights from raw data using structured queries.
 
-## 🔹 Featured Project: Hospitality Data Analysis
+## Featured Project: Hospitality Data Analysis
 
-### 📌 Project Overview
+### Project Overview
 This project analyzes hospitality booking data using SQL to generate key business insights such as revenue, bookings, occupancy, and cancellation trends.
 
-## 🔹 Tools Used
+## Tools Used
 - SQL (MySQL)
 
-## 🔹 Key Analysis Performed
+## Key Analysis Performed
 - KPI calculation (Revenue, Bookings, Occupancy, Cancellation Rate)
 - Time-based analysis (Monthly & Weekly trends)
 - Weekday vs Weekend performance comparison
@@ -18,21 +18,21 @@ This project analyzes hospitality booking data using SQL to generate key busines
 - Room class performance analysis
 - Booking status analysis (Checked-out, Cancelled, No-show)
 
-## 🔹 SQL Query & Output Screenshots
+## SQL Query & Output Screenshots
 
-### 📌 KPI Metrics
+### KPI Metrics
 
 ![KPI](HA7.png)
 ---
-### 📌 Trend & Revenue Analysis
+### Trend & Revenue Analysis
 
 ![Trend](HA8.png)
 ---
-### 📌 Class & Booking Insights
+### Class & Booking Insights
 
 ![Insights](HA9.png)
 ---
-## 🔹 SQL Concepts Used
+## SQL Concepts Used
 - Aggregation Functions (SUM, COUNT, AVG)
 - GROUP BY & ORDER BY
 - CASE WHEN statements
@@ -40,14 +40,14 @@ This project analyzes hospitality booking data using SQL to generate key busines
 - Date functions (YEAR, MONTH)
 - Data formatting (ROUND, CONCAT)
 
-## 🔹 Key Insights
+## Key Insights
 - High revenue generated from premium and elite room categories
 - Weekend bookings contribute significantly to revenue
 - Certain cities (like Mumbai) generate higher revenue
 - Cancellation rate (~25%) impacts overall performance
 - Weekly trends help identify peak booking periods
 
-## 🔹 SQL Queries
+## SQL Queries
 You can find all SQL queries used in this project here: [View SQL File](Hospitality_Analytics_SQL.sql)
 
 ## 🔹 Conclusion
