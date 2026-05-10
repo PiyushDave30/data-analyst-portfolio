@@ -30,6 +30,13 @@ https://airquality.cpcb.gov.in/ccr/#/caaqm-dashboard-all/caaqm-landing/aqi-repos
 
 ---
 
+## Dashboard Preview
+
+Jupyter Notebook Link :
+http://localhost:8888/lab/workspaces/auto-O/tree/AQI%20Project
+
+---
+
 ## Objectives
 
 - Analyze daily AQI levels for Amravati city  
