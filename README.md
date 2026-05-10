@@ -1,66 +1,131 @@
-#  Hi, I'm Piyush Dave
+<div align="center">
 
-Aspiring Data Analyst with strong skills in SQL, Python, Excel, Power BI, and Tableau.  
-Passionate about transforming raw data into meaningful insights to support business decision-making.
+# 👋 Hi, I'm Piyush Dave
+### Data Analyst | SQL · Power BI · Tableau · Excel · Python
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-dave-0980a03a8)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Vizzes-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/piyushdave/vizzes)
+[![GitHub Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PiyushDave30/data-analyst-portfolio)
+
+</div>
 
 ---
 
-## 📌 About Me
--  B.E. in Electronics & Telecommunication (EXTC)
--  Data Analyst Intern with hands-on project experience
--  Skilled in Data Cleaning, EDA, KPI Analysis & Dashboarding
--  Interested in solving real-world business problems using data
+## 🧑‍💼 About Me
+
+I'm an **aspiring Data Analyst** with a B.E. in Electronics & Telecommunication (EXTC), passionate about turning raw data into clear, actionable insights that drive real business decisions.
+
+- 🔍 Experienced in **end-to-end data analysis** — from data cleaning to dashboard delivery
+- 📊 Built dashboards and reports across **Sales, HR, Hospitality, and Environmental** domains
+- 🏢 Data Analyst Intern with hands-on project experience
+- 🎯 Goal: Join a data-driven team where I can solve meaningful problems at scale
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 🔹 Programming & Querying
-- SQL
-- Python (Pandas, NumPy)
-
-### 🔹 Data Visualization
-- Power BI
-- Tableau
-- Excel (Pivot Tables, Charts)
-
-### 🔹 Data Analysis
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- KPI Analysis
-- Data Transformation (Power Query)
+| Category | Tools & Technologies |
+|---|---|
+| **Languages** | SQL, Python (Pandas, NumPy) |
+| **Visualization** | Power BI, Tableau, Excel (Pivot Tables, Charts) |
+| **Data Analysis** | EDA, KPI Analysis, Data Cleaning, Statistical Analysis |
+| **Data Engineering** | Power Query, Data Transformation, ETL workflows |
+| **Other** | Git, Jupyter Notebook, MS Excel Advanced |
 
 ---
 
 ## 📂 Projects
 
-###  Power BI Projects
-- Adventure Works Sales Analysis  
-- Hospitality Analytics Dashboard
-- HR Attrition Analysis
+### 📊 Power BI Projects
 
-###  Tableau Projects
-- Zomato Sales & Rating Analysis  
-
-###  Excel Projects
-- Blinkit Sales Performance Dashboard  
-
-###  SQL Projects
-- Sales Data Analysis using SQL  
+| Project | Description | Tools |
+|---|---|---|
+| [Adventure Works Sales Analysis](./PowerBI-Projects/Adventure-Works-Sales-Analysis) | End-to-end sales performance dashboard — revenue trends, top products, regional breakdown | Power BI, Power Query |
+| [Hospitality Analytics Dashboard](./PowerBI-Projects/Hospitality-Analytics) | KPI analysis for hotel revenue, occupancy rates, and booking patterns | Power BI, DAX |
+| [HR Attrition Analysis](./PowerBI-Projects/HR-Attrition-Analysis) | Identified attrition drivers across departments using demographic and performance data | Power BI, Power Query |
 
 ---
 
-## 🔗 Project Links
+### 📈 Tableau Projects
 
--  GitHub Portfolio: https://github.com/PiyushDave30/data-analyst-portfolio  
--  Tableau Public: https://public.tableau.com/app/profile/piyushdave/vizzes 
--  LinkedIn: https://www.linkedin.com/in/piyush-dave-0980a03a8  
-
----
-
-## 🎯 Objective
-To leverage my data analysis skills to extract insights, build impactful dashboards, and contribute to data-driven decision-making in a professional environment.
+| Project | Description | Tools |
+|---|---|---|
+| [Zomato Sales & Rating Analysis](./Tableau-Projects/Zomato-Analysis) | Analyzed restaurant ratings, cuisine trends, and delivery performance across cities | Tableau, Excel |
 
 ---
 
-⭐ Feel free to explore my projects and connect with me!
+### 📋 Excel Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [Blinkit Sales Performance Dashboard](./Excel-Projects/Blinkit-Sales-Dashboard) | Interactive dashboard tracking outlet-wise sales, item categories, and customer ratings | Excel (Pivot Tables, Charts, Slicers) |
+
+---
+
+### 🗄️ SQL Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [Sales Data Analysis](./SQL-Projects/Sales-Data-Analysis) | Queried and analyzed transactional sales data — trends, top customers, revenue by region | SQL (MySQL/PostgreSQL) |
+
+---
+
+### 🌿 AQI & Environmental Analysis
+
+| Project | Description | Tools |
+|---|---|---|
+| [Air Quality Index Analysis – Amravati 2024](./Air-Quality-Index-AQI-Analysis-Amravati-2024) | Analyzed AQI data for Amravati city across pollutants (PM2.5, NO2, SO2); identified seasonal pollution trends | Python, Pandas, Matplotlib |
+
+---
+
+## 📁 Repository Structure
+
+```
+data-analyst-portfolio/
+│
+├── PowerBI-Projects/
+│   ├── Adventure-Works-Sales-Analysis/
+│   ├── Hospitality-Analytics/
+│   └── HR-Attrition-Analysis/
+│
+├── Tableau-Projects/
+│   └── Zomato-Analysis/
+│
+├── Excel-Projects/
+│   └── Blinkit-Sales-Dashboard/
+│
+├── SQL-Projects/
+│   └── Sales-Data-Analysis/
+│
+├── Air-Quality-Index-AQI-Analysis-Amravati-2024/
+│
+└── Projects/                     ← Additional exploratory projects
+```
+
+---
+
+## 🎯 What I Bring to a Team
+
+- ✅ Translate business questions into data queries and dashboards
+- ✅ Build clean, interactive reports that non-technical stakeholders can understand
+- ✅ Strong attention to data quality — cleaning and validating before any analysis
+- ✅ Fast learner who documents work clearly for collaboration
+
+---
+
+## 🔗 Let's Connect
+
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [piyush-dave-0980a03a8](https://www.linkedin.com/in/piyush-dave-0980a03a8) |
+| 📊 Tableau Public | [piyushdave](https://public.tableau.com/app/profile/piyushdave/vizzes) |
+| 💻 GitHub | [PiyushDave30](https://github.com/PiyushDave30) |
+
+---
+
+<div align="center">
+
+⭐ **If you find any project useful, feel free to star the repo!**
+*Open to Data Analyst / Business Analyst / BI Analyst opportunities.*
+
+</div>
