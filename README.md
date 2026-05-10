@@ -36,7 +36,8 @@ Passionate about transforming raw data into meaningful insights to support busin
 
 ###  Power BI Projects
 - Adventure Works Sales Analysis  
-- Hospitality Analytics Dashboard  
+- Hospitality Analytics Dashboard
+- HR Attrition Analysis
 
 ###  Tableau Projects
 - Zomato Sales & Rating Analysis  
