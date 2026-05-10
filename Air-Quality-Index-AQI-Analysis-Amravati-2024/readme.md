@@ -30,7 +30,7 @@ https://airquality.cpcb.gov.in/ccr/#/caaqm-dashboard-all/caaqm-landing/aqi-repos
 
 ---
 
-## Dashboard Preview
+## Code File
 
 Jupyter Notebook Link :
 http://localhost:8888/lab/workspaces/auto-O/tree/AQI%20Project
