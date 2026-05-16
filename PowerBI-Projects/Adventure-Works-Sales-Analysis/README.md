@@ -70,10 +70,10 @@ The goal was to analyze sales performance, profitability, order trends, customer
 
 ### Dashboard Preview
 
-![Power BI Home](screenshots/Dashboard1.png)
-![Power BI Sales Analysis](screenshots/Dashboard2.png)
-![Power BI Orders Analysis](screenshots/Dashboard3.png)
-![Power BI Profit Analysis](screenshots/Dashboard4.png)
+![Power BI Home](Dashboard1.png)
+![Power BI Sales Analysis](Dashboard2.png)
+![Power BI Orders Analysis](Dashboard3.png)
+![Power BI Profit Analysis](Dashboard4.png)
 
 **Power BI Service Link:** Available on request (license-restricted to author)
 
@@ -100,7 +100,7 @@ The goal was to analyze sales performance, profitability, order trends, customer
 
 ### Dashboard Preview
 
-![Excel Dashboard](screenshots/Dashboard5.png)
+![Excel Dashboard](Dashboard5.png)
 
 **Google Drive Link:** [View Excel Dashboard](https://drive.google.com/drive/folders/1fsse-OBr0OXT2qOWerVSyUCwO3KWHgUe?usp=sharing)
 
@@ -121,7 +121,7 @@ The goal was to analyze sales performance, profitability, order trends, customer
 
 ### Dashboard Preview
 
-![Tableau Dashboard](screenshots/Dashboard6.png)
+![Tableau Dashboard](Dashboard6.png)
 
 **Tableau Public Link:** [View Live Dashboard](https://public.tableau.com/app/profile/piyush.dave4044/viz/projectgrpfile/Dashboard1)
 
