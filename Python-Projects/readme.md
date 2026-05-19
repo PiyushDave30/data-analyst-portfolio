@@ -78,3 +78,7 @@ This project performs a full data analytics workflow:
 - **58.4%** of toss winners choose to field first
 - **AB de Villiers** leads Player of the Match awards (25)
 
+## Code File
+
+Jupyter Notebook Link :
+[IPL Analysis](http://localhost:8888/lab/workspaces/auto-O/tree/%20IPL%20Analysis/IPL.ipynb)
